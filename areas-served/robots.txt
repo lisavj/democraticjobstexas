@@ -1,0 +1,15 @@
+Sitemap: https://deocraticjobs.github.com/sitemap.xml
+User-agent: rogerbot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: xenu
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: LinkResearchtools
+Disallow: /
